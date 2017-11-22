@@ -1,0 +1,15 @@
+$bg-color: #4a4944;
+
+body {
+    background-color: $bg-color;
+    height: 100vh;
+}
+div {
+    height: inherit;
+}
+img {
+    max-height: 650px;
+}
+h1 {
+    color: #fff;
+}
